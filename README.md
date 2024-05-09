@@ -1,2 +1,11 @@
 # Private-Code-AccessDenialWarning
-Hi, I'm faisal and this is a github page that is created to protect some personal projects that I've been working on and the original srouce coded. Although it may be on my resume it doesnt mean that all source code is truly public. If you are seeing this and want to know more about a particular project feel free to contact me through my email address. Thank you for understanding.
+Hello there,
+
+Welcome to my GitHub page. You've stumbled upon a repository created to safeguard some personal projects I've been diligently working on, along with their original source code. While some of these projects may be listed on my resume, it's important to note that not all source code is intended for public consumption.
+
+If you're here seeking more information about a specific project, I encourage you to reach out to me via email. I'll be more than happy to provide you with further details.
+
+Thank you for your understanding and respecting the privacy of my projects.
+
+Best regards,
+Faisal
